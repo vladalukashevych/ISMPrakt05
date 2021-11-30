@@ -65,8 +65,7 @@ namespace WinForm
             // 
             this.dataGridViewArray.AllowUserToAddRows = false;
             this.dataGridViewArray.AllowUserToDeleteRows = false;
-            this.dataGridViewArray.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
+            this.dataGridViewArray.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.dataGridViewArray.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridViewArray.Location = new System.Drawing.Point(-4, 76);
@@ -283,6 +282,7 @@ namespace WinForm
             this.Controls.Add(this.buttonCreateArray);
             this.Controls.Add(this.dataGridViewArray);
             this.Controls.Add(this.labelAmount);
+            this.MinimumSize = new System.Drawing.Size(999, 585);
             this.Name = "Form1";
             this.Text = "Array Operations";
             ((System.ComponentModel.ISupportInitialize)(this.dataGridViewArray)).EndInit();
