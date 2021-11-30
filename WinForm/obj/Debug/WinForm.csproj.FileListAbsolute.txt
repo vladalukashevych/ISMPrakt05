@@ -1,0 +1,13 @@
+C:\Users\Vlada\source\repos\ISMPrakt05\WinForm\bin\Debug\WinForm.exe.config
+C:\Users\Vlada\source\repos\ISMPrakt05\WinForm\bin\Debug\WinForm.exe
+C:\Users\Vlada\source\repos\ISMPrakt05\WinForm\bin\Debug\WinForm.pdb
+C:\Users\Vlada\source\repos\ISMPrakt05\WinForm\bin\Debug\Library.dll
+C:\Users\Vlada\source\repos\ISMPrakt05\WinForm\bin\Debug\Library.pdb
+C:\Users\Vlada\source\repos\ISMPrakt05\WinForm\obj\Debug\WinForm.csproj.AssemblyReference.cache
+C:\Users\Vlada\source\repos\ISMPrakt05\WinForm\obj\Debug\WinForm.Form1.resources
+C:\Users\Vlada\source\repos\ISMPrakt05\WinForm\obj\Debug\WinForm.Properties.Resources.resources
+C:\Users\Vlada\source\repos\ISMPrakt05\WinForm\obj\Debug\WinForm.csproj.GenerateResource.cache
+C:\Users\Vlada\source\repos\ISMPrakt05\WinForm\obj\Debug\WinForm.csproj.CoreCompileInputs.cache
+C:\Users\Vlada\source\repos\ISMPrakt05\WinForm\obj\Debug\WinForm.csproj.CopyComplete
+C:\Users\Vlada\source\repos\ISMPrakt05\WinForm\obj\Debug\WinForm.exe
+C:\Users\Vlada\source\repos\ISMPrakt05\WinForm\obj\Debug\WinForm.pdb
